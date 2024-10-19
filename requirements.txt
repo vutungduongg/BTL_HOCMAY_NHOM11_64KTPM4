@@ -1,0 +1,9 @@
+waitress
+dash
+dash-bootstrap-components
+plotly
+pandas
+joblib
+streamlit
+numpy
+scikit-learn
